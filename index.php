@@ -1,4 +1,4 @@
 <?php
-echo 'Hello World!';
+echo 'student';
 echo '<br>';
 echo 'Q /n S';
